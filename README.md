@@ -3,7 +3,7 @@
 **`I'm a Fullstack Engineer with DevOps Skill's 😎`**
 
 <details>
- <summary><h3>About me 👷🏾</h3></summary>
+ <summary><h3>About Me 👷🏾</h3></summary>
 
 **I'm a Creative Engineer 🤩✨  with a comprehensive knowledge of the software development lifecycle, and expertise in ideating, designing, building, and maintaining software solutions**.
 <br />
@@ -56,6 +56,8 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 
 <br />
 
+
+
 ## Active Technologies 👨🏽‍💻
 
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
@@ -69,6 +71,8 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 <br />
 <br />
 
+<div align="center">
+
 ### Timeline 🚶🏾
 <br />
 
@@ -81,6 +85,7 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 | 2019               |  <img align="left" alt="NodeJS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="Express" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img align="left" alt="Azure" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />   <img align="left" alt="MongoDB" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img align="left" alt="Firebase" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  <img align="left" alt="Webpack" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />   <img align="left" alt="Wordpress" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /> |    `Software Engineer (Fullstack)`                                     |
 | 17/18               | <img align="left" alt="HTML" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  <img align="left" alt="CSS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  <img align="left" alt="Angular" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> <img align="left" alt="TypeScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Ionic" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" /> <img alt="Ionic" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                                                          |   `Software Engineer (Frontend)`                    |
 
+</div>
 
 <br />
 <br />
@@ -124,6 +129,8 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 
 </td></tr></table>
 </div>
+
+<br />
 
 -----
 <div align="center">  
