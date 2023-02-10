@@ -103,6 +103,8 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 ## Recent Hashnode Articles   
  
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Introduction to Aws AppSync](https://gbengafagbola.hashnode.dev/introduction-to-aws-appsync)
+- [Designing a Cloud Infrastructure.](https://gbengafagbola.hashnode.dev/designing-a-cloud-infrastructure)
 <!-- HASHNODE-BLOG-LIST:END -->
  
 </td><td valign="top" width="50%">
