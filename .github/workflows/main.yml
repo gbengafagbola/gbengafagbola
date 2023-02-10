@@ -1,0 +1,17 @@
+name: Automating Hashnode Articles
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:       
+  update-readme-with-hashnode-articles:
+    name: Update this repo's README with the latest Hashnode Articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "HASHNODE-BLOG-LIST"
+          feed_list: "https://gbengafagbola.hashnode.dev/rss.xml"
+          commit_message: "recent hashnode posts updated"
