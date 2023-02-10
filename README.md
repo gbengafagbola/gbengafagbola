@@ -109,6 +109,11 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 
 ## Recent DEV.to Articles 
  <!-- DEVTO-BLOG-LIST:START -->
+- [Multiple Pointers](https://dev.to/clouded_knight/multiple-pointers-592h)
+- [Frequency Counter](https://dev.to/clouded_knight/frequency-counter-hl0)
+- [Problem solving Patterns](https://dev.to/clouded_knight/problem-solving-patterns-2iib)
+- [Algorithm &amp; Data Structure](https://dev.to/clouded_knight/algorithm-data-structure-59e0)
+- [React-Redux at it&#39;s Simplest!](https://dev.to/clouded_knight/react-redux-at-its-simplest-2kep)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
