@@ -1,4 +1,4 @@
-![Oluwagbenga Fagbola Banner Image](./banner.png)
+![Oluwagbenga Fagbola Banner Image](./banner-me.png)
 
 **`I'm a Fullstack Engineer with DevOps Skill's 😎`**
 
@@ -103,7 +103,7 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 
 <table><tr><td valign="top" width="50%">
 
-## <a href="https://dev.to/clouded_knight"><img align="left" alt="Dev.To Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a>      Recent Hashnode Articles   
+## <a href="https://dev.to/clouded_knight"><img align="left" alt="Dev.To Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a>     My Recent Hashnode Articles   
  
 <!-- HASHNODE-BLOG-LIST:START -->
 - [Introduction to Aws AppSync](https://gbengafagbola.hashnode.dev/introduction-to-aws-appsync)
@@ -112,7 +112,7 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
  
 </td><td valign="top" width="50%">
 
-## <a href="https://dev.to/clouded_knight"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/devto.png?raw=true" title="DEV" alt="DEV" width="25"/></a> Recent DEV.to Articles 
+## <a href="https://dev.to/clouded_knight"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/devto.png?raw=true" title="DEV" alt="DEV" width="25"/></a>     My Recent DEV.to Articles 
  <!-- DEVTO-BLOG-LIST:START -->
 - [Multiple Pointers](https://dev.to/clouded_knight/multiple-pointers-592h)
 - [Frequency Counter](https://dev.to/clouded_knight/frequency-counter-hl0)
