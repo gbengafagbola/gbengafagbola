@@ -1,4 +1,4 @@
-![Oluwagbenga Fagbola Banner Image](./profile-banner.png)
+![Oluwagbenga Fagbola Banner Image](./banner.png)
 
 **`I'm a Fullstack Engineer with DevOps Skill's 😎`**
 
@@ -38,7 +38,7 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 
 
 > CURRENTLY <br />
-`SWE` `AWS Community Builder` `Community Manager WA Learn` `Mentor SCA` `Contributor AWGFF `<br />
+`SWE` `AWS Community Builder` `Community Manager WA Learn` `Mentor & Mentee` `Contributor AWGFF `<br />
 <br />
 
 
@@ -59,10 +59,13 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 ## Active Technologies 👨🏽‍💻
 
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img  align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
+<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> 
+
 <br />
 <br />
 
@@ -73,7 +76,7 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 | ------------------ | --------------------------------------------------------- |--------------------------------------|
 | 2023.              | Mastery of active stack                                   |  `Software Engineer (Fullstack)`     | 
 | 2022               | <img align="left" alt="Go" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> <img align="left" alt="Tailwind" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> <img align="left" alt="Prometheus" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" /> <img align="left" alt="Next" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> |    `Software Engineer (Fullstack)`   |
-| 2021               |  <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="K8" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> <img align="left" alt="GCP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> <img align="left" alt="Flutter" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  <img lign="left" alt="Terraform" width="20px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />   <img align="left" alt="GraphQl" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  | `Software Engineer (Fullstack)`  |
+| 2021               |  <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="K8" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> <img align="left" alt="GCP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> <img align="left" alt="Flutter" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  <img align="left" alt="Terraform" width="20px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> <img align="left" alt="Terraform" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />  <img align="left" alt="GraphQl" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  | `Software Engineer (Fullstack)`  |
 | 2020               | <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="Linux" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img align="left" alt="Docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img align="left" alt="Travis" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" /> <img align="left" alt="Redis" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" /> <img align="left" alt="NGINX" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> <img  align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> |   `Software Engineer (Fullstack)`                                   |
 | 2019               |  <img align="left" alt="NodeJS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="Express" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img align="left" alt="Azure" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />   <img align="left" alt="MongoDB" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img align="left" alt="Firebase" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  <img align="left" alt="Webpack" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />   <img align="left" alt="Wordpress" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /> |    `Software Engineer (Fullstack)`                                     |
 | 17/18               | <img align="left" alt="HTML" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  <img align="left" alt="CSS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  <img align="left" alt="Angular" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> <img align="left" alt="TypeScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Ionic" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" /> <img alt="Ionic" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                                                          |   `Software Engineer (Frontend)`                    |
@@ -98,9 +101,9 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 
 ## Recent Blog Posts
 
- <table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
-## Recent Hashnode Articles   
+## <a href="https://dev.to/clouded_knight"><img align="left" alt="Dev.To Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a>      Recent Hashnode Articles   
  
 <!-- HASHNODE-BLOG-LIST:START -->
 - [Introduction to Aws AppSync](https://gbengafagbola.hashnode.dev/introduction-to-aws-appsync)
@@ -109,7 +112,7 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
  
 </td><td valign="top" width="50%">
 
-## Recent DEV.to Articles 
+## <a href="https://dev.to/clouded_knight"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/devto.png?raw=true" title="DEV" alt="DEV" width="25"/></a> Recent DEV.to Articles 
  <!-- DEVTO-BLOG-LIST:START -->
 - [Multiple Pointers](https://dev.to/clouded_knight/multiple-pointers-592h)
 - [Frequency Counter](https://dev.to/clouded_knight/frequency-counter-hl0)
