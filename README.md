@@ -96,7 +96,7 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7010228786956808193/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7010228786956808193%29"><img src="shopping-mall.png" /></a> <a></a></td>
-    <td><a href="https://github.com/gbengafagbola/gbengafagbola/"><img src="read-me.png" /></a> <a></a></td>
+  <!--  <td><a href="https://github.com/gbengafagbola/gbengafagbola/"><img src="read-me.png" /></a> <a></a></td> -->
         <td><a href="https://www.linkedin.com/feed/update/urn:li:activity:6861733348750966784/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6861733348750966784%29"><img src="news-agency.png" /></a>  <a></a></td>
   </tr>
 </table>
@@ -109,7 +109,7 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 
 <table><tr><td valign="top" width="50%">
 
-## <a href="https://dev.to/clouded_knight"><img align="left" alt="Dev.To Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a> My Recent Hashnode Articles   
+## <a href="https://dev.to/clouded_knight"><img align="left" alt="Dev.To Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a> My Hashnode Articles   
  
 <!-- HASHNODE-BLOG-LIST:START -->
 - [Customizing &amp; Automating GitHub Readme](https://gbengafagbola.hashnode.dev/customizing-automating-github-readme)
