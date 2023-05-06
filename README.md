@@ -46,7 +46,7 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
    <p align="left">
       <a href="https://www.youtube.com/@gbengafagbola">
          <img alt="youtube subscribers" title="Abeg Subscribe to my YouTube channel 😩" src="https://img.shields.io/badge/youtube-subscribe-red?style=for-the-badge&logo=youtube"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://twitter.com/clouded_knight">
          <img alt="twitter" title="Biko Follow on twitter 👏🏻" src="https://img.shields.io/badge/twitter-follow-1155ba?style=for-the-badge&logo=twitter"/></a> 
       <a href="https://www.linkedin.com/in/gbengafagbola/">
          <img alt="followers" title="Ejoor Connect with me on linkedin 🥲" src="https://img.shields.io/badge/linkedin-connect-blue?style=for-the-badge&logo=linkedin"/></a>
