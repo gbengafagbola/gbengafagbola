@@ -145,6 +145,6 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 -----
 <div align="center">  
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> 
-      <h6>Gbenga Fagbola <a href="https://linkedin.com/in/gbengafagbola">(c) 2025 </a></h6>    
+      <h6>Oluwagbenga Fagbola <a href="https://linkedin.com/in/gbengafagbola">(c) 2025 </a></h6>    
 </div>
 </div>
