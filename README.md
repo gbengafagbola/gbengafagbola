@@ -119,11 +119,11 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 ## <a href="https://dev.to/clouded_knight"><img align="left" alt="Dev.To Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a> My Hashnode Articles   
  
 <!-- HASHNODE-BLOG-LIST:START -->
+- [The Essence of a Community!](https://gbengafagbola.hashnode.dev/the-essence-of-a-community)
 - [Observability as Code. Introductory.](https://gbengafagbola.hashnode.dev/observability-as-code-introductory)
 - [Build &amp; Deploy Next.js &amp; FastAPI  Application with AWS Amplify.](https://gbengafagbola.hashnode.dev/build-deploy-nextjs-fastapi-application-with-aws-amplify)
 - [Customizing &amp; Automating GitHub Readme](https://gbengafagbola.hashnode.dev/customizing-automating-github-readme)
 - [Introduction to Aws AppSync](https://gbengafagbola.hashnode.dev/introduction-to-aws-appsync)
-- [Designing a Cloud Infrastructure.](https://gbengafagbola.hashnode.dev/designing-a-cloud-infrastructure)
 <!-- HASHNODE-BLOG-LIST:END -->
  
 </td><td valign="top" width="50%">
