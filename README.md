@@ -130,11 +130,11 @@ Having been in cahoots with a handful of successful start-ups, a couple of estab
 
 ## <a href="https://dev.to/clouded_knight"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/devto.png?raw=true" title="DEV" alt="DEV" width="25"/></a>     My Recent DEV.to Articles 
  <!-- DEVTO-BLOG-LIST:START -->
+- [Building a Distributed Search Engine in Go](https://dev.to/clouded_knight/building-a-distributed-search-engine-in-go-561f)
 - [Multiple Pointers](https://dev.to/clouded_knight/multiple-pointers-592h)
 - [Frequency Counter](https://dev.to/clouded_knight/frequency-counter-hl0)
 - [Problem solving Patterns](https://dev.to/clouded_knight/problem-solving-patterns-2iib)
 - [Algorithm &amp; Data Structure](https://dev.to/clouded_knight/algorithm-data-structure-59e0)
-- [React-Redux at it&#39;s Simplest!](https://dev.to/clouded_knight/react-redux-at-its-simplest-2kep)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
