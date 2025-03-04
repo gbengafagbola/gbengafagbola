@@ -1,6 +1,6 @@
 ![Oluwagbenga Fagbola Banner Image](./banner-me.png)
 
-**`I'm a Fullstack Engineer with DevOps Skill's 😎`**
+**`I'm a Software Engineer (Fullstack / SRE Engineer)`**
 
 <details>
  <summary><h3>About Me 👷🏾</h3></summary>
